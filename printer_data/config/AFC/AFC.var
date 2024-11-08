@@ -21,8 +21,8 @@
             "material": "",
             "spool_id": "",
             "color": "",
-            "tool_loaded": false,
-            "hub_loaded": false
+            "tool_loaded": true,
+            "hub_loaded": true
         },
         "leg4": {
             "index": 4,
